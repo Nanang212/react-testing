@@ -2,10 +2,9 @@
 //     expect(1 + 2).toBe(3);
 // });
 
-test("testing sederhana", ()=>{
-    expect(true).toBe(true);
+test('testing sederhana', () => {
+   expect(true).toBe(true);
 });
-
 
 // test("menjumlahkan nilai", () => {
 //     expect(1 + 1).toBe(2);
